@@ -6,4 +6,5 @@
 # Example:
 01 01 * * * node /home/user/worker.js -i /home/user/dataset1.csv -o /home/user/processed_dataset1.csv
 ```
-3. Check if the job is setup correctly with `crontab -l`
+3. Save and exit to register the task
+4. Check if the job is setup correctly with `crontab -l`
